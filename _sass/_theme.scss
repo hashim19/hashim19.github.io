@@ -571,10 +571,10 @@ body.publications h3{
   grid-template-columns: 1fr 1fr;
 }
 .main-2 {
-  background: #e5e5e5;
+  background: #f2f2f2;
 }
 .side-2 {
-  background: #e5e5e5;
+  background: #f2f2f2;
 }
 .main-2,
 .side-2 {
@@ -616,7 +616,12 @@ span.list-des a:hover {
 ul.exp-list li {
   list-style-position: inside;
   font-size: 14px;
+  padding: 5px 0;
   list-style-image: url(/assets/briefcase.png);
+
+  span {
+    line-height: 14px;
+  }
 }
 span.list-des {
   display: block;
@@ -635,3 +640,5 @@ span.list-des {
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
+
+// ul.exp-list li span
