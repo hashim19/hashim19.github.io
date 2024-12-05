@@ -1,7 +1,7 @@
 ---
 title: About Me
 feature_text: |
-  ## Audio Processing | Robust Audio Deepfake Detection | Audio Antispoofing
+  ## Audio Processing | Audio Deepfake Detection | Audio Antispoofing
   PhD candidate interested in Audio Processing, Deep Learning & Machine Learning
 feature_image: "/assets/home-bg.jpg"
 excerpt: "I am a PhD candidate at the University of Michigan, Dearborn. I am working with Dr. Hafiz Malik at the Information Systems, Security and Forensics Lab. My research interests Robust Audio Deepfake Detection, Machine Learning and Media Forensics."
